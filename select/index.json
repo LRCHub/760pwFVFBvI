@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "コール(Instrumental ver.)",
+  "base_artist": "HIKAKIN & SEIKIN",
+  "createdAt": "2025-12-28T04:40:46.077753Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "コール (YTFF ver.)",
+      "artist": "HIKAKIN & SEIKIN",
+      "has_synced": false,
+      "path": "select/pl_01_コール_(YTFF_ver.)_HIKAKIN_&_SEIKIN.txt"
+    }
+  ]
+}
